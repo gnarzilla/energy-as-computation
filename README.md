@@ -47,7 +47,7 @@ These instructions will help you get a copy of the project up and running on you
   - **Hybrid Language (Future Development):** Documentation on the custom programming language is in development, and a detailed usage guide will be provided as it progresses.
 
 ## Project Structure
-
+  ```php
   energy-as-computation/
   ├── README.md               # Project overview and setup guide
   ├── docs/                   # Documentation and reference materials
@@ -57,7 +57,7 @@ These instructions will help you get a copy of the project up and running on you
   │   └── simulations/        # Simulation scripts and tools
   ├── tools/                  # Utility scripts, reference tools
   └── assets/                 # Images, diagrams, and other visual aids
-
+  ```
 ## Contributing
 
 Contributions are welcome to the Energy-as-Computation project! If you have ideas, improvements or want to help develop new features,  please feel free to open an issue or submit a pull request.

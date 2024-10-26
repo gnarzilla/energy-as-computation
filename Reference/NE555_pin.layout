@@ -1,0 +1,16 @@
+   ________
+  |        |
+  |  1   8 |
+  |  2   7 |
+  |  3   6 |
+  |  4   5 |
+  |________|
+
+Pin 1: GND (Connect to Ground)
+Pin 2: Trigger (Where you provide a low pulse to start the timing cycle)
+Pin 3: Output (The output signal comes from here)
+Pin 4: Reset (Active-low; connect to VCC if not used)
+Pin 5: Control Voltage (Connect to GND via a small capacitor, e.g., 100nF for stability)
+Pin 6: Threshold (Used to compare voltage to end the timing cycle)
+Pin 7: Discharge (Used to discharge the timing capacitor)
+Pin 8: VCC (Connect to positive voltage, e.g., +5V)
